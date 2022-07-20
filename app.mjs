@@ -4,7 +4,7 @@ function startApp() {
     // so create and use/call additional functions from here
   
     // pls remove the below and make some magic in here!
-    console.log('make magic in here!');
+ //   console.log('make magic in here!');
   
     const header = document.querySelector('h2');
     if(header) {
@@ -12,6 +12,8 @@ function startApp() {
     }
   };
   
+
+export default textChange;
   // ======= DO NOT EDIT ============== //
   export default startApp;
   // ======= EEND DO NOT EDIT ========= //
